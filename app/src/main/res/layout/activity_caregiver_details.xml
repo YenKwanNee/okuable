@@ -405,8 +405,8 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:fontFamily="@font/marcellus"
-        android:text="ContactNumber"
-        android:textColor="@color/black"
+        android:text="@string/contactnumber"
+        android:textColor="@color/blue_link"
         android:textSize="16sp"
         app:layout_constraintStart_toEndOf="@+id/cg_tvContactNumber"
         app:layout_constraintTop_toBottomOf="@+id/cg_tvContact" />
@@ -418,8 +418,8 @@
         android:layout_marginStart="60dp"
         android:layout_marginTop="12dp"
         android:fontFamily="@font/marcellus"
-        android:text="Email"
-        android:textColor="@color/black"
+        android:textColor="@color/blue_link"
+        android:text="@string/email"
         android:textSize="16sp"
         app:layout_constraintStart_toEndOf="@+id/cg_tvEmail"
         app:layout_constraintTop_toBottomOf="@+id/cg_ContactNumber" />

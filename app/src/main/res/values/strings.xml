@@ -40,4 +40,6 @@
     <string name="q3">q3</string>
     <string name="q2">q2</string>
     <string name="q1">q1</string>
+    <string name="contactnumber"><u>ContactNumber</u></string>
+    <string name="email"><u>Email</u></string>
 </resources>
